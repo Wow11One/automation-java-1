@@ -2,7 +2,7 @@ package com.ukma.enums;
 
 public enum SecureRandomAlgorithm {
     SHA1PRNG("SHA1PRNG"),
-    NativePRNG("NativePRNG"),
+    NativePRNG("Windows-PRNG"),
     DRBG("DRBG");
 
     private final String name;
