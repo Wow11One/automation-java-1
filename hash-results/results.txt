@@ -1,0 +1,17 @@
+Message Digest Algorithms
+
+algorithm name: MD2. Hash results:
+hello world! -> 76008dc5481f235664e357735905887f
+algorithm name: MD5. Hash results:
+hello world! -> fc3ff98e8c6a0d3087d515c0473f8677
+algorithm name: SHA-256. Hash results:
+hello world! -> 7509e5bda0c762d2bac7f90d758b5b2263fa01ccbc542ab5e3df163be08e6ca9
+
+Secure Random Algorithms (16 bytes array)
+
+algorithm name: DRBG. Hash results:
+hello world! -> cdadc381948329bfb85b567459a3f8ba
+algorithm name: Windows-PRNG. Hash results:
+hello world! -> a5ac708b32784b5ca0ee0147b1312a92
+algorithm name: SHA1PRNG. Hash results:
+hello world! -> a8f690e1e42ec3b369b40edc71d72499
